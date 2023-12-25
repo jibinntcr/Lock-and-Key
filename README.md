@@ -30,7 +30,7 @@ The `generatePassword` method can generate passwords with three different levels
 Here's how you can use the PasswordManager class:
 
 ```dart
-String password = "safa@TM";
+String password = "Master@JBN";
 print("Password Strength: ${PasswordManager.validatePasswordStrength(password)}");
 
 String generatedStrongPassword = PasswordManager.generatePassword(level: "strong");
