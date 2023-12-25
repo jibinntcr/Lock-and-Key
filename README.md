@@ -1,4 +1,4 @@
-# PasswordManager Class Explanation
+# LOCK AND KEY
 
 The `PasswordManager` class provides functionality for password operations:
 
